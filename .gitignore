@@ -146,3 +146,6 @@ fabric.properties
 *.iml
 out
 gen
+
+## User-defined patterns
+data/
